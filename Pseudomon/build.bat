@@ -1,0 +1,1 @@
+cls && g++ "pseudomon code.cpp" -std=c++11
